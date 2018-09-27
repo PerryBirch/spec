@@ -20,3 +20,6 @@ stream of events from a single observable source.
   subsequent value (i.e. be contiguous and monotonically increasing).
 * The value wraps around from 2,147,483,647 (2^31 -1) to
   -2,147,483,648 (-2^31).
+
+## Other Ordering Extensions:
+- [Vector Clock](./vector-clock.md)

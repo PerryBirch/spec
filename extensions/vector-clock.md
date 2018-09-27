@@ -19,5 +19,5 @@ See [Vector clock](https://en.wikipedia.org/wiki/Vector_clock)
   -2,147,483,648 (-2^31).
 
 
-Other Ordering Extensions:
+## Other Ordering Extensions:
 - [Sequence](./sequence.md)
